@@ -1,0 +1,23 @@
+salomaof@cachyos-x8664
+----------------------
+OS: CachyOS x86_64
+Host: MS-7A38 (8.0)
+Kernel: Linux 7.0.5-2-cachyos
+Uptime: 16 hours, 41 mins
+Packages: 1147 (pacman)
+Shell: bash 5.3.9
+Display (22B30HM2): 1920x1080 in 21", 60 Hz [External]
+WM: mango (Wayland)
+Theme: Adwaita-dark [GTK3/4]
+Icons: Papirus-Dark [GTK3/4]
+Font: Inter Variable (10pt) [GTK3/4]
+Cursor: capitaine
+Terminal: dumb
+CPU: AMD Ryzen 5 4500 (12) @ 4.21 GHz
+GPU: AMD Radeon RX 580 2048SP [Discrete]
+Memory: 5.04 GiB / 15.50 GiB (32%)
+Swap: 161.90 MiB / 15.50 GiB (1%)
+Disk (/): 89.05 GiB / 476.44 GiB (19%) - btrfs [Read-only]
+
+[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[5m[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
