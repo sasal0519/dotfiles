@@ -1,4 +1,4 @@
-# salomaof dotfiles
+# sasal dotfiles
 
 Personal CachyOS + mango/Wayland config snapshot.
 
